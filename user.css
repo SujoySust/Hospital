@@ -1,0 +1,143 @@
+.mcontent {
+	width: 100%;
+}
+.mheader {
+	background: #E6F0F3;
+	color: #2E5E79;
+}
+.mbody {
+	background: #FFFFFF;
+	padding-bottom: 4%;
+	padding-left: 5%;
+}
+.mbody form {
+	width: 87%;
+}
+
+.loginform {
+	margin-top: 5%;
+}
+.loginform  form{
+  width: 100%;
+}
+.loginform form table {
+	width: 100%;
+	margin-top: 3%;
+}
+.loginform form td{
+
+}
+.loginform form td tr{
+
+}
+.loginform form tr td input[type=submit]
+{
+	width: 20%;
+}
+
+.signupform{
+
+}
+.signupform form{
+
+}
+.signupform form table{
+	width: 100%;
+}
+.signupform form tr td input{
+
+}
+.signupform form tr td input[type=submit]{
+   width: 20%;
+}
+.signup form tr td select{
+
+}
+.signup form tr td textarea{
+
+}
+
+.signup {
+	background: #3F90BB;
+	margin-top: 2%;
+}
+.signup form {
+	padding: 2%;
+	background: #326281;
+	margin-top: 13px;
+}
+.signup form tr td input {
+	width: 100%;
+	margin-bottom: 4%;
+	min-height: 45px;
+	padding: 2%;
+}.signup form tr td select{
+	width: 100%;
+	margin-bottom: 4%;
+	min-height: 45px;
+	padding: 2%;
+}
+.signup form tr td textarea{
+   width: 100%;
+	margin-bottom: 4%;
+	min-height: 45px;
+	padding: 2%;
+}
+
+.signup form tr td input[type=file] {
+	width: 100%;
+	margin-bottom: 4%;
+	min-height: 45px;
+	padding: 2%;
+}
+.sign{
+	margin-top: 5%;
+}
+
+
+.postform form table {
+	width: 100%;
+	margin: auto;
+}
+.postform form tr td input{
+
+}
+.postform form tr td input[type=submit]{
+   width: 20%;
+}
+
+.postdata {
+	background: #3F90BB;
+	margin-top: 2px;
+}
+.postdata form {
+	padding: 1%;
+	background: #326281;
+}
+.postdata form table{
+	width: 100%;
+}
+.postdata form tr td input {
+	width: 100%;
+	margin-bottom: 1%;
+	min-height: 38px;
+	padding: 1%;
+}.postdata form tr td select{
+	width: 100%;
+	margin-bottom: 1%;
+	min-height: 38px;
+	padding: 1%;
+}
+.postdata form tr td textarea{
+    width: 100%;
+	margin-bottom: 1%;
+	height: 60px;
+	padding: 1%;
+}
+
+.postdata form tr td input[type=file] {
+	width: 100%;
+	margin-bottom: 1%;
+	min-height: 38px;
+	padding: 1%;
+}
